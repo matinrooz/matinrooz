@@ -9,8 +9,8 @@ explanation or the citation really holds up.
 
 ## What I've been working on
 
-**[ecg-xai-faithfulness-benchmark](https://github.com/matinrooz/ecg-xai-faithfulness-benchmark)**
-is my MSc thesis. I trained ECG classifiers to detect myocardial infarction (ROC-AUC 0.972)
+**[ecg-xai-faithfulness-benchmark](https://github.com/matinrooz/ecg-xai-faithfulness-benchmark)**:
+I trained ECG classifiers to detect myocardial infarction (ROC-AUC 0.972)
 and then tested whether explanation methods really point to the part of the signal the model
 uses. The surprising part: how you design the test changed the result more than which
 explanation method you pick.
